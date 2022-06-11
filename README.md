@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Cihat Gündüz** (Cihat read like "**Jeehut**"), I'm an **📱Indie iOS Developer** from 🇩🇪Germany working on my first Indie app.
+My name is **Cihat Gündüz** (Cihat read like "**Jeehut**"), I'm an **📱Indie iOS Developer** from 🇩🇪Germany.
 
 I'm doing iOS development **since 2011** and because I've learned so much from the great developer community in my first years, I'm trying to now give something back by **contributing 🔨Open Source tools & frameworks** and writing articles about things I've learned over the years on [my blog](https://jeehut.medium.com).
 
