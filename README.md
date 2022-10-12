@@ -2,7 +2,7 @@
 
 My name is **Cihat Gündüz** (Cihat read like "**Jeehut**"), I'm an **📱Indie iOS Developer** from 🇩🇪Germany.
 
-I'm doing iOS development **since 2011** and because I've learned so much from the great developer community in my first years, I'm trying to now give something back by **contributing 🔨Open Source tools & frameworks** and writing articles about things I've learned over the years on [my blog](https://jeehut.medium.com).
+I'm doing iOS development **since 2011** and because I've learned so much from the great developer community in my first years, I'm trying to now give something back by **contributing 🔨Open Source tools & frameworks** and writing articles about things I've learned over the years on [my blog](https://fline.dev).
 
 Since I went full time Indie in **beginning of 2022**, I'm also [streaming my Open Source work on 👾Twitch](https://www.twitch.tv/Jeehut) and upload my recordings later [to ▶️YouTube](https://www.youtube.com/c/FlineDev). My work as an Indie developer is focused on two topics: Developers Tools and Daily Life & Productivity tools. My first app [ReMafoX](https://remafox.app) is a developer tool that makes **translating apps in Xcode easier and more fun**.
 
