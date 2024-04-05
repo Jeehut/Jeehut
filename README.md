@@ -1,9 +1,94 @@
-### Hi there 👋
+## About Me
 
-My name is **Cihat Gündüz** (Cihat read like "**Jeehut**"), I'm an **📱Indie iOS Developer** from 🇩🇪Germany.
+My name is **Cihat Gündüz** (Cihat reads like "**Jeehut**"). 👋
 
-I'm doing iOS development **since 2011** and because I've learned so much from the great developer community, I'm now giving something back by **contributing 🔨Open Source tools & frameworks** and writing articles about things I've learned over the years on [my blog](https://fline.dev).
+I'm a **Spatial-first Indie Developer for  Platforms** from 🇩🇪 Germany and I do iOS development since 2011. I like to contribute to our awesome community by creating open source tools ([BartyCrouch](https://github.com/FlineDev/BartyCrouch), [HandySwift](https://github.com/FlineDev/HandySwift), [ReviewKit](https://github.com/FlineDev/ReviewKit), etc.) or helping out in existing projects ([SwiftLint](https://github.com/realm/SwiftLint), [SwiftGen](https://github.com/SwiftGen/SwiftGen), [Moya](https://github.com/Moya/Moya), etc.).
 
-Since I went full-time Indie at **beginning of 2022**, I'm also [streaming my Open Source work on 👾Twitch](https://www.twitch.tv/Jeehut) and uploading my recordings later [to ▶️YouTube](https://www.youtube.com/c/FlineDev). My work as an Indie developer is focused on two topics: Developer Tools and Daily Life & Productivity. My first app [RemafoX](https://remafox.app) is a developer tool that makes **translating apps in Xcode easier and more fun**.
+Since 2022 I write the [Swift Evolution Monthly](https://swiftevolution.substack.com/?ref=github.com) newsletter where I summarize the newest developments in the Swift language for thousands of free subscribers. Since 2023 I'm the organizer of the [WWDC Notes](https://wwdcnotes.com/?ref=github.com) community project.
 
-Feel free to join my streams [when I'm live](https://www.twitch.tv/Jeehut/schedule) and **ask me anything** about iOS or Swift development or even **send me your Swift code** for a live code review & refactoring. **[Follow me](https://www.youtube.com/c/FlineDev) also on YouTube** to support me, I have some more interesting content planned there for the future there!
+I share my learnings on 🐦 [Twitter (X)](https://twitter.com/Jeehut?ref=github.com), on 🧵 [Threads](https://www.threads.net/@jeehut?ref=github.com), and 🦣 [Mastodon](https://iosdev.space/@Jeehut?ref=github.com). Follow me there for development tips & contact me to discuss anything.
+
+Since I went full-time Indie in 2022, I released 5 apps (rate them to support me!):
+
+<table>
+  <tr>
+    <th>App Icon</th>
+    <th>App Name & Description</th>
+    <th>Supported Platforms</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6476773066?pt=549314&ct=github.com&mt=8">
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwift/main/Images/SCTranslator.webp" width="64" />
+      </a>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6476773066?pt=549314&ct=github.com&mt=8">
+        <strong>TranslateKit: App Localizer</strong>
+      </a>
+      <br />
+      Simple drag & drop translation of String Catalog files with support for 4 machine translation services.
+    </td>
+    <td>Mac</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6472669260?pt=549314&ct=github.com&mt=8">
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwift/main/Images/CrossCraft.webp" width="64" />
+      </a>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6472669260?pt=549314&ct=github.com&mt=8">
+        <strong>CrossCraft: Custom Crosswords</strong>
+      </a>
+      <br />
+      Create themed & personalized crosswords. Solve them yourself or share them to challenge others.
+    </td>
+    <td>iPhone, iPad, Mac, Vision</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6477829138?pt=549314&ct=github.com&mt=8">
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwift/main/Images/FocusBeats.webp" width="64" />
+      </a>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6477829138?pt=549314&ct=github.com&mt=8">
+        <strong>FocusBeats: Pomodoro + Music</strong>
+      </a>
+      <br />
+      Deep Focus with proven Pomodoro method & select Apple Music playlists & themes. Automatically pauses music during breaks.
+    </td>
+    <td>iPhone, iPad, Mac, Vision</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6479207869?pt=549314&ct=github.com&mt=8">
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwift/main/Images/GuidedGuestMode.webp" width="64" />
+      </a>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6479207869?pt=549314&ct=github.com&mt=8">
+        <strong>Guided Guest Mode</strong>
+      </a>
+      <br />
+      Showcase Apple Vision Pro effortlessly to friends & family. Customizable, easy-to-use guides for everyone!
+    </td>
+    <td>Vision</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6478062053?pt=549314&ct=github.com&mt=8">
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwift/main/Images/Posters.webp" width="64" />
+      </a>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6478062053?pt=549314&ct=github.com&mt=8">
+        <strong>Posters: Discover Movies at Home</strong>
+      </a>
+      <br />
+      Auto-updating & interactive posters for your home with trailers, showtimes, and links to streaming services.
+    </td>
+    <td>Vision</td>
+  </tr>
+</table>
