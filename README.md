@@ -69,7 +69,7 @@ Since I went full-time Indie in 2022, I released 5 apps (**rate them** to help m
     </td>
     <td>
       <a href="https://apps.apple.com/app/apple-store/id6479207869?pt=549314&ct=github.com&mt=8">
-        <strong>Guided Guest Mode</strong>
+        <strong>Guided Guest Mode: Device Demo</strong>
       </a>
       <br />
       Showcase Apple Vision Pro effortlessly to friends & family. Customizable, easy-to-use guides for everyone!
