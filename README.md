@@ -8,7 +8,7 @@ Since 2022 I write the [Swift Evolution Monthly](https://swiftevolution.substack
 
 I share my learnings regularly on 🐦 [Twitter (X)](https://twitter.com/Jeehut?ref=github.com), on 🧵 [Threads](https://www.threads.net/@jeehut?ref=github.com), and 🦣 [Mastodon](https://iosdev.space/@Jeehut?ref=github.com). Follow me there for development tips & contact me to discuss anything.
 
-Since I went full-time Indie in 2022, I released 5 apps (rate them to support me!):
+Since I went full-time Indie in 2022, I released 5 apps (**rate them** to help me!):
 
 <table>
   <tr>
