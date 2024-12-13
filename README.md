@@ -6,7 +6,7 @@ I'm a **Spatial-first Indie Developer for  Platforms** from 🇩🇪 Germany 
 
 Since 2022 I write the [Swift Evolution Monthly](https://swiftevolution.substack.com/?ref=github.com) newsletter where I summarize the newest developments in the Swift language for thousands of free subscribers. Since 2023 I'm the organizer of the [WWDC Notes](https://wwdcnotes.com/?ref=github.com) community project.
 
-I share my learnings regularly on 🐦 [Twitter (X)](https://twitter.com/Jeehut?ref=github.com), on 🧵 [Threads](https://www.threads.net/@jeehut?ref=github.com), and 🦣 [Mastodon](https://iosdev.space/@Jeehut?ref=github.com). Follow me there for development tips & contact me to discuss anything.
+I share my learnings regularly on 🐦 [Twitter (X)](https://twitter.com/Jeehut), on 🦋 [Bluesky](https://bsky.app/profile/jeehut.bsky.social), and 🦣 [Mastodon](https://iosdev.space/@Jeehut). Follow me there for development tips & contact me to discuss anything.
 
 Since I went full-time Indie in 2022, I released 8 apps (**rate them** to support me!):
 
