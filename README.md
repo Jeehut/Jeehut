@@ -8,7 +8,7 @@ Since 2022 I write the [Swift Evolution Monthly](https://swiftevolution.substack
 
 I share my learnings regularly on 🐦 [Twitter (X)](https://twitter.com/Jeehut), on 🦋 [Bluesky](https://bsky.app/profile/jeehut.bsky.social), and 🦣 [Mastodon](https://iosdev.space/@Jeehut). Follow me there for development tips & contact me to discuss anything.
 
-Since I went full-time Indie in 2022, I released 8 apps (**rate them** to support me!):
+I created my open-source contributions for my own Indie apps (download & rate them to show your appreciation):
 
 <table>
   <tr>
@@ -19,22 +19,37 @@ Since I went full-time Indie in 2022, I released 8 apps (**rate them** to suppor
   <tr>
     <td>
       <a href="https://apps.apple.com/app/apple-store/id6476773066?pt=549314&ct=github.com&mt=8">
-        <img src="https://raw.githubusercontent.com/FlineDev/HandySwift/main/Images/Apps/TranslateKit.webp" width="64" />
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwiftUI/main/Images/Apps/TranslateKit.webp" width="64" />
       </a>
     </td>
     <td>
       <a href="https://apps.apple.com/app/apple-store/id6476773066?pt=549314&ct=github.com&mt=8">
-        <strong>TranslateKit: App Localizer</strong>
+        <strong>TranslateKit: App Localization</strong>
       </a>
       <br />
-      Simple drag & drop translation of String Catalog files with support for multiple translation services & smart correctness checks.
+      AI-powered app localization with unmatched accuracy. Fast & easy: AI & proofreading, 125+ languages, market insights. Budget-friendly, free to try.
     </td>
     <td>Mac</td>
   </tr>
   <tr>
     <td>
+      <a href="https://apps.apple.com/app/apple-store/id6502914189?pt=549314&ct=github.com&mt=8">
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwiftUI/main/Images/Apps/FreemiumKit.webp" width="64" />
+      </a>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/apple-store/id6502914189?pt=549314&ct=github.com&mt=8">
+        <strong>FreemiumKit: In-App Purchases for Indies</strong>
+      </a>
+      <br />
+      Simple In-App Purchases and Subscriptions: Automation, Paywalls, A/B Testing, Live Notifications, PPP, and more.
+    </td>
+    <td>iPhone, iPad, Mac, Vision</td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://apps.apple.com/app/apple-store/id6587583340?pt=549314&ct=github.com&mt=8">
-        <img src="https://raw.githubusercontent.com/FlineDev/HandySwift/main/Images/Apps/PleydiaOrganizer.webp" width="64" />
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwiftUI/main/Images/Apps/PleydiaOrganizer.webp" width="64" />
       </a>
     </td>
     <td>
@@ -48,38 +63,23 @@ Since I went full-time Indie in 2022, I released 8 apps (**rate them** to suppor
   </tr>
   <tr>
     <td>
-      <a href="https://apps.apple.com/app/apple-store/id6502914189?pt=549314&ct=github.com&mt=8">
-        <img src="https://raw.githubusercontent.com/FlineDev/HandySwift/main/Images/Apps/FreemiumKit.webp" width="64" />
-      </a>
-    </td>
-    <td>
-      <a href="https://apps.apple.com/app/apple-store/id6502914189?pt=549314&ct=github.com&mt=8">
-        <strong>FreemiumKit: In-App Purchases</strong>
-      </a>
-      <br />
-      Simple In-App Purchases and Subscriptions for Apple Platforms: Automation, Paywalls, A/B Testing, Live Notifications, PPP, and more.
-    </td>
-    <td>iPhone, iPad, Mac, Vision</td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://apps.apple.com/app/apple-store/id6480134993?pt=549314&ct=github.com&mt=8">
-        <img src="https://raw.githubusercontent.com/FlineDev/HandySwift/main/Images/Apps/FreelanceKit.webp" width="64" />
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwiftUI/main/Images/Apps/FreelanceKit.webp" width="64" />
       </a>
     </td>
     <td>
       <a href="https://apps.apple.com/app/apple-store/id6480134993?pt=549314&ct=github.com&mt=8">
-        <strong>FreelanceKit: Time Tracking</strong>
+        <strong>FreelanceKit: Project Time Tracking</strong>
       </a>
       <br />
-      Simple & affordable time tracking with a native experience for all  devices. iCloud sync & CSV export included.
+      Simple & affordable time tracking with a native experience for all devices. iCloud sync & CSV export included.
     </td>
     <td>iPhone, iPad, Mac, Vision</td>
   </tr>
   <tr>
     <td>
       <a href="https://apps.apple.com/app/apple-store/id6472669260?pt=549314&ct=github.com&mt=8">
-        <img src="https://raw.githubusercontent.com/FlineDev/HandySwift/main/Images/Apps/CrossCraft.webp" width="64" />
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwiftUI/main/Images/Apps/CrossCraft.webp" width="64" />
       </a>
     </td>
     <td>
@@ -94,7 +94,7 @@ Since I went full-time Indie in 2022, I released 8 apps (**rate them** to suppor
   <tr>
     <td>
       <a href="https://apps.apple.com/app/apple-store/id6477829138?pt=549314&ct=github.com&mt=8">
-        <img src="https://raw.githubusercontent.com/FlineDev/HandySwift/main/Images/Apps/FocusBeats.webp" width="64" />
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwiftUI/main/Images/Apps/FocusBeats.webp" width="64" />
       </a>
     </td>
     <td>
@@ -108,23 +108,8 @@ Since I went full-time Indie in 2022, I released 8 apps (**rate them** to suppor
   </tr>
   <tr>
     <td>
-      <a href="https://apps.apple.com/app/apple-store/id6479207869?pt=549314&ct=github.com&mt=8">
-        <img src="https://raw.githubusercontent.com/FlineDev/HandySwift/main/Images/Apps/GuidedGuestMode.webp" width="64" />
-      </a>
-    </td>
-    <td>
-      <a href="https://apps.apple.com/app/apple-store/id6479207869?pt=549314&ct=github.com&mt=8">
-        <strong>Guided Guest Mode</strong>
-      </a>
-      <br />
-      Showcase Apple Vision Pro effortlessly to friends & family. Customizable, easy-to-use guides for everyone!
-    </td>
-    <td>Vision</td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://apps.apple.com/app/apple-store/id6478062053?pt=549314&ct=github.com&mt=8">
-        <img src="https://raw.githubusercontent.com/FlineDev/HandySwift/main/Images/Apps/Posters.webp" width="64" />
+        <img src="https://raw.githubusercontent.com/FlineDev/HandySwiftUI/main/Images/Apps/Posters.webp" width="64" />
       </a>
     </td>
     <td>
