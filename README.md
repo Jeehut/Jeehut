@@ -2,11 +2,11 @@
 
 My name is **Cihat Gündüz** (Cihat reads like "**Jeehut**"). 👋
 
-I'm a **Spatial-first Indie Developer for  Platforms** from 🇩🇪 Germany and I do iOS development since 2011. I like to contribute to our awesome community by creating **Open Source Tools** ([HandySwiftUI](https://github.com/FlineDev/HandySwiftUI), [TranslateKit](https://github.com/FlineDev/TranslateKit), [LinksKit](https://github.com/FlineDev/LinksKit), etc.) or helping out in existing projects ([SwiftLint](https://github.com/realm/SwiftLint), [SwiftGen](https://github.com/SwiftGen/SwiftGen), [Moya](https://github.com/Moya/Moya), etc.).
+I'm a **Spatial-first Indie Developer for  Apple Platforms** from 🇩🇪 Germany and I do iOS development since 2011. I like to contribute to our awesome community by creating **Open Source Tools** ([HandySwiftUI](https://github.com/FlineDev/HandySwiftUI), [TranslateKit](https://github.com/FlineDev/TranslateKit), [ErrorKit](https://github.com/FlineDev/ErrorKit), etc.) or helping out in existing projects ([SwiftLint](https://github.com/realm/SwiftLint), [SwiftGen](https://github.com/SwiftGen/SwiftGen), [Moya](https://github.com/Moya/Moya), etc.).
 
 Since 2022 I write the [Swift Evolution Monthly](https://swiftevolution.substack.com/?ref=github.com) newsletter where I summarize the newest developments in the Swift language for thousands of free subscribers. Since 2023 I'm the organizer of the [WWDC Notes](https://wwdcnotes.com/?ref=github.com) community project.
 
-I share my learnings regularly on 🐦 [Twitter (X)](https://twitter.com/Jeehut), on 🦋 [Bluesky](https://bsky.app/profile/jeehut.bsky.social), and 🦣 [Mastodon](https://iosdev.space/@Jeehut). Follow me there for development tips & contact me to discuss anything.
+I share my learnings regularly on 🦋 [Bluesky](https://bsky.app/profile/jeehut.bsky.social), on 🐦 [Twitter (X)](https://twitter.com/Jeehut), and 🦣 [Mastodon](https://iosdev.space/@Jeehut). Follow me there for development tips & contact me to discuss anything.
 
 I created my open-source contributions for my own Indie apps (download & rate them to show your appreciation):
 
